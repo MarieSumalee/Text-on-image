@@ -1,0 +1,28 @@
+/* CSS Document */
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,700,300);
+
+/* Body */
+body 
+{ color: rgb(253, 255, 254); height: 100%; width: 100%;
+font-family: "Times New Roman", Georgia, Serif; font-size: 16px;  font-family: "Playfair Display";
+  letter-spacing: 2px;font-weight: 300; margin: 0; padding: 0; }
+
+h1 { margin: 0 0 1em 0; font-size: 2em; font-weight: 700; color: white; text-align: center;}
+h2 { margin: 0 0 1em 0; font-size: 1.9em; font-weight: 700; color: rgb(35, 35, 37); text-align: left;}
+h3 { margin: 0 0 1em 0; font-size: 1.8em; font-weight: 700; color: white; text-align: left;}
+h4 { margin: 0 0 1em 0; font-size: 1.7em; font-weight: 700; color: black; text-align: center;}
+h5 
+h6 { margin: 1em ; text-align: center; color: white;
+  font-family: "Playfair Display";
+  letter-spacing: 1px; }
+p { margin: 1em ; text-align: center; color: black;
+  font-family: "Playfair Display";
+  letter-spacing: 1px;
+} 
+/* Body*/
+
+body {
+  background-color: #f8f9fa;
+  width: 100%;
+}
